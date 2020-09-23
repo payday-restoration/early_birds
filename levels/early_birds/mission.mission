@@ -1,0 +1,7 @@
+<table>
+	<art file="art/art"/>
+	<cube_lights file="cube_lights/cube_lights"/>
+	<editor_only file="editor_only/editor_only"/>
+	<lighting file="lighting/lighting"/>
+	<world file="world/world"/>
+</table>

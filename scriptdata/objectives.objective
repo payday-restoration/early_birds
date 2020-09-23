@@ -1,0 +1,13 @@
+<table>
+	<objective description="res_eb_enter_desc" id="res_eb_enter" prio="1" text="res_eb_enter" xp_weight="1"/>
+	<objective description="res_eb_maskup_desc" id="res_eb_maskup" prio="1" text="res_eb_maskup" xp_weight="1"/>
+	<objective description="res_eb_opendoor_desc" id="res_eb_opendoor" prio="1" text="res_eb_opendoor" xp_weight="1"/>
+	<objective description="res_eb_tellers_desc" id="res_eb_tellers" prio="1" text="res_eb_tellers" xp_weight="1"/>
+	<objective description="res_eb_timelock_desc" id="res_eb_timelock" prio="1" text="res_eb_timelock" xp_weight="1"/>
+	<objective description="res_eb_shootout_desc" id="res_eb_shootout" prio="1" text="res_eb_shootout" xp_weight="1"/>
+	<objective description="res_eb_shutter_desc" id="res_eb_shutter" prio="1" text="res_eb_shutter" xp_weight="1"/>
+	<objective description="res_eb_leave_desc" id="res_eb_leave" prio="1" text="res_eb_leave" xp_weight="1"/>
+	<objective description="res_eb_escape_desc" id="res_eb_escape" prio="1" text="res_eb_escape" xp_weight="1"/>
+	<objective description="res_eb_bagit_desc" id="res_eb_bagit" prio="1" text="res_eb_bagit" xp_weight="1"/>
+	<objective description="res_eb_hack_desc" id="res_eb_hack" prio="1" text="res_eb_hack" xp_weight="1"/>
+</table>

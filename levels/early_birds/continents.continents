@@ -1,0 +1,7 @@
+<table>
+	<art base_id="300000" name="art"/>
+	<cube_lights base_id="400000" name="cube_lights"/>
+	<editor_only base_id="200000" editor_only="false" name="editor_only"/>
+	<lighting base_id="500000" name="lighting"/>
+	<world base_id="100000" editor_only="false" name="world"/>
+</table>

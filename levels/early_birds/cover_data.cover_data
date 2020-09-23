@@ -1,0 +1,14 @@
+<table>
+	<positions>
+		<value_node value="-650 -225 0"/>
+		<value_node value="-850 -225 0"/>
+		<value_node value="-1050 -225 0"/>
+		<value_node value="-1550 -525 0"/>
+	</positions>
+	<rotations>
+		<value_node value="0"/>
+		<value_node value="0"/>
+		<value_node value="0"/>
+		<value_node value="90"/>
+	</rotations>
+</table>

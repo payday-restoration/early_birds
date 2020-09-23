@@ -1,0 +1,108 @@
+<table>
+	<editor_groups/>
+	<statics>
+		<table>
+			<unit_data _prev_pos="-450 -400 300" _prev_rot="-0 0 -0 -1" continent="art" local_pos="900 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_whiteish_small" name_id="ind_prop_light_cones_whiteish_small_002" position="-450 -400 300" rotation="-0 0 -0 -1" unit_id="300000"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-750 -400 300" _prev_rot="-0 0 -0 -1" continent="art" local_pos="600 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_whiteish_small" name_id="ind_prop_light_cones_whiteish_small_003" position="-750 -400 300" rotation="-0 0 -0 -1" unit_id="300001"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1050 -400 300" _prev_rot="-0 0 -0 -1" continent="art" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_whiteish_small" name_id="ind_prop_light_cones_whiteish_small_004" position="-1050 -400 300" rotation="-0 0 -0 -1" unit_id="300002"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1350 -400 300" _prev_rot="0 0 0 -1" continent="art" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_whiteish_small" name_id="ind_prop_light_cones_whiteish_small_005" position="-1350 -400 300" rotation="0 0 0 -1" unit_id="300003"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1350 -400 300" _prev_rot="0 0 0 -1" continent="art" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_whiteish_small" name_id="ind_prop_light_cones_whiteish_small_006" position="-1350 1100 300" rotation="0 0 0 -1" unit_id="300004"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1050 -400 300" _prev_rot="0 0 0 -1" continent="art" local_pos="300 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_whiteish_small" name_id="ind_prop_light_cones_whiteish_small_007" position="-1050 1100 300" rotation="0 0 0 -1" unit_id="300005"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-750 -400 300" _prev_rot="0 0 0 -1" continent="art" local_pos="600 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_whiteish_small" name_id="ind_prop_light_cones_whiteish_small_008" position="-750 1100 300" rotation="0 0 0 -1" unit_id="300006"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-450 -400 300" _prev_rot="0 0 0 -1" continent="art" local_pos="900 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_whiteish_small" name_id="ind_prop_light_cones_whiteish_small_009" position="-450 1100 300" rotation="0 0 0 -1" unit_id="300007"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1350 1100 300" _prev_rot="0 0 0 -1" continent="art" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_whiteish_small" name_id="ind_prop_light_cones_whiteish_small_010" position="-1800 550 400" rotation="0 0 0.707107 -0.707107" unit_id="300008"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1500 550 400" _prev_rot="0 0 0.707107 -0.707107" continent="art" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_whiteish_small" name_id="ind_prop_light_cones_whiteish_small_011" position="-1200 550 400" rotation="0 0 0.707107 -0.707107" unit_id="300009"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-900 550 400" _prev_rot="0 0 0.707107 -0.707107" continent="art" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_whiteish_small" name_id="ind_prop_light_cones_whiteish_small_012" position="-600 550 400" rotation="0 0 0.707107 -0.707107" unit_id="300010"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-600 550 400" _prev_rot="0 0 0.707107 -0.707107" continent="art" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_whiteish_small" name_id="ind_prop_light_cones_whiteish_small_013" position="-600 250 400" rotation="0 0 0.707107 -0.707107" unit_id="300011"/>
+		</table>
+		<table>
+			<unit_data continent="art" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_whiteish_small" name_id="ind_prop_light_cones_whiteish_small_014" position="-1200 250 400" rotation="0 0 0.707107 -0.707107" unit_id="300012"/>
+		</table>
+		<table>
+			<unit_data continent="art" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_whiteish_small" name_id="ind_prop_light_cones_whiteish_small_015" position="-1800 250 400" rotation="0 0 0.707107 -0.707107" unit_id="300013"/>
+		</table>
+		<table>
+			<unit_data continent="art" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/bnk_prop_office_shelf_books/bnk_prop_office_shelf_books_b" name_id="bnk_prop_office_shelf_books_b_001" position="-2175 1034 90" rotation="0 0 -0.707107 -0.707107" unit_id="300014"/>
+		</table>
+		<table>
+			<unit_data continent="art" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/bnk_prop_office_shelf_books/bnk_prop_office_shelf_books_a" name_id="bnk_prop_office_shelf_books_a_001" position="-2175 1350 90" rotation="0 0 -0.707107 -0.707107" unit_id="300016"/>
+		</table>
+		<table>
+			<unit_data continent="art" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/off_prop_officehigh_books/off_prop_officehigh_books_professional_03" name_id="off_prop_officehigh_books_professional_03_001" position="-2175 1000 42" rotation="0 0 0.707107 -0.707107" unit_id="300015"/>
+		</table>
+		<table>
+			<unit_data continent="art" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/off_prop_officehigh_books/off_prop_officehigh_books_professional_01" name_id="off_prop_officehigh_books_professional_01_001" position="-2175 1301 136" rotation="0 0 0.707107 -0.707107" unit_id="300018"/>
+		</table>
+		<table>
+			<unit_data continent="art" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/off_prop_officehigh_books/off_prop_officehigh_books_professional_05" name_id="off_prop_officehigh_books_professional_05_001" position="-2175 1300 6" rotation="0 0 0.707107 -0.707107" unit_id="300019"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2175 1125 100" _prev_rot="0 0 0 -1" continent="art" local_pos="0 -117 0" local_rot="0 0 0.996917 0.0784593" mesh_variation="" name="units/payday2/props/off_prop_officehigh_paperstacks/off_prop_officehigh_folder_holder_01" name_id="off_prop_officehigh_folder_holder_01_001" position="-2175 1125 97" rotation="0 0 0 -1" unit_id="300017"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2175 1242 100" _prev_rot="0 0 0.996917 -0.0784593" continent="art" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/off_prop_officehigh_paperstacks/off_prop_officehigh_folder_holder_01" name_id="off_prop_officehigh_folder_holder_01_002" position="-2175 1242 97" rotation="0 0 0.996917 -0.0784593" unit_id="300020"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2175 1325 175" _prev_rot="-0 0 -0 -1" continent="art" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="light_on" name="units/payday2/props/air_prop_lounge_ceramiclamp/air_prop_lounge_ceramiclamp" name_id="air_prop_lounge_ceramiclamp_001" position="-2175 1325 175" rotation="-0 0 -0 -1" unit_id="300021">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.666667 0.601326 0.418301" enabled="true" falloff_exponent="1" far_range="150" multiplier="@ID90cc6917c5799ad8@" name="lo_omni_01" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1859.59 1090.71 75" _prev_rot="0 0 0.0174524 -0.999848" continent="art" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/box/a4paperbox_02" name_id="a4paperbox_02_007" position="-1859.59 1090.71 75" rotation="0 0 0.0174524 -0.999848" unit_id="300022"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1862.41 1121.77 75" _prev_rot="0 0 0 -1" continent="art" local_pos="-2.82007 31.0601 0" local_rot="0 0 0.0174524 0.999848" name="units/world/props/box/a4paperbox_02" name_id="a4paperbox_02_008" position="-1862.41 1121.77 75" rotation="0 0 0 -1" unit_id="300023"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1862.16 1110.2 101.05" _prev_rot="0 0 0.986286 -0.165047" continent="art" local_pos="-2.57007 19.49 26.05" local_rot="0 0 -0.983255 0.182235" name="units/payday2/props/off_prop_officehigh_paperstacks/off_prop_officehigh_paper_stack_03" name_id="off_prop_officehigh_paper_stack_03_003" position="-1862.16 1110.2 101.05" rotation="0 0 0.986286 -0.165047" unit_id="300024"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1857.25 1161.22 75" _prev_rot="0 0 0 -1" continent="art" local_pos="2.33997 70.51 0" local_rot="0 0 0.0174524 0.999848" name="units/payday2/props/off_prop_officehigh_paperstacks/off_prop_officehigh_paper_stack_02" name_id="off_prop_officehigh_paper_stack_02_002" position="-1857.25 1161.22 75" rotation="0 0 0 -1" unit_id="300025"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1848.17 1307.72 75" _prev_rot="0 0 0.241922 -0.970296" continent="art" local_pos="11.4199 217.01 0" local_rot="0 0 -0.224951 0.97437" name="units/payday2/props/off_prop_officehigh_paperstacks/off_prop_officehigh_paper_stack_03" name_id="off_prop_officehigh_paper_stack_03_004" position="-1848.17 1307.72 75" rotation="0 0 0.241922 -0.970296" unit_id="300026"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1860.51 1273.83 75" _prev_rot="0 0 -0.803857 -0.594823" continent="art" local_pos="-0.920044 183.12 0" local_rot="0 0 0.814115 0.580703" name="units/world/props/office/desk_accessories/desk_phone_02" name_id="desk_phone_02_005" position="-1860.51 1273.83 75" rotation="0 0 -0.803857 -0.594823" unit_id="300027"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1919.76 1255.9 75" _prev_rot="0 0 0.573577 -0.819152" continent="art" local_pos="-60.17 165.19 0" local_rot="0 0 -0.559193 0.829037" name="units/payday2/props/bnk_prop_vault_loot/bnk_prop_vault_loot_crap_c" name_id="bnk_prop_vault_loot_crap_c_002" position="-1919.76 1255.9 75" rotation="0 0 0.573577 -0.819152" unit_id="300028"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1920.02 1225.88 75" _prev_rot="0 0 -0.67559 -0.737277" continent="art" local_pos="-60.4301 135.17 0" local_rot="0 0 0.688355 0.725374" name="units/world/props/diamond_heist/apartment/apartment_room/penpaper/penpaper" name_id="penpaper_002" position="-1920.02 1225.88 75" rotation="0 0 -0.67559 -0.737277" unit_id="300029"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1896.69 1106.05 75.0786" _prev_rot="0 0 0.731354 -0.681998" continent="art" local_pos="-37.1 15.3401 0.078598" local_rot="0 0 -0.71934 0.694658" name="units/world/props/suburbia_newspaper_folded/suburbia_newspaper_folded" name_id="suburbia_newspaper_folded_002" position="-1896.69 1106.05 75.0786" rotation="0 0 0.731354 -0.681998" unit_id="300030"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1900 1100 0" _prev_rot="0 0 -0.707107 -0.707107" continent="art" local_pos="-40.41 9.29004 -75" local_rot="0 0 0.71934 0.694658" name="units/world/props/office/computer/computer_case" name_id="computer_case_002" position="-1900 1100 0" rotation="0 0 -0.707107 -0.707107" unit_id="300031"/>
+		</table>
+	</statics>
+	<values>
+		<workviews/>
+	</values>
+</table>

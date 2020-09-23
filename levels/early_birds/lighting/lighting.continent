@@ -1,0 +1,135 @@
+<table>
+	<editor_groups/>
+	<statics>
+		<table>
+			<unit_data _prev_pos="-450 -400 300" _prev_rot="1 0 0 -4.37114e-008" continent="lighting" local_pos="0 0 0" local_rot="0 0 0 1" name="units/lights/light_spot_shadow_projection_01/light_spot_shadow_projection_01" name_id="light_spot_shadow_projection_01_001" only_visible_in_editor="true" position="-450 -400 300" projection_light="ls_spot" rotation="1 0 0 -4.37114e-008" unit_id="500000">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="true" falloff_exponent="1" far_range="400" multiplier="@IDccbbe27c7fdc0fd9@" name="ls_spot" near_range="25" spot_angle_end="75" spot_angle_start="75"/>
+				</lights>
+				<projection_textures ls_spot="lights/art_lights/2x1office_light_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-750 -400 300" _prev_rot="1 0 0 -1.31134e-007" continent="lighting" local_pos="-300 0 0" local_rot="8.74228e-008 0 0 1" name="units/lights/light_spot_shadow_projection_01/light_spot_shadow_projection_01" name_id="light_spot_shadow_projection_01_005" only_visible_in_editor="true" position="-750 -400 300" projection_light="ls_spot" rotation="1 0 0 -1.31134e-007" unit_id="500001">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="true" falloff_exponent="1" far_range="400" multiplier="@IDccbbe27c7fdc0fd9@" name="ls_spot" near_range="25" spot_angle_end="75" spot_angle_start="75"/>
+				</lights>
+				<projection_textures ls_spot="lights/art_lights/2x1office_light_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1050 -400 300" _prev_rot="1 0 0 -4.37114e-008" continent="lighting" local_pos="-600 0 0" local_rot="0 0 0 1" name="units/lights/light_spot_shadow_projection_01/light_spot_shadow_projection_01" name_id="light_spot_shadow_projection_01_006" only_visible_in_editor="true" position="-1050 -400 300" projection_light="ls_spot" rotation="1 0 0 -4.37114e-008" unit_id="500002">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="true" falloff_exponent="1" far_range="400" multiplier="@IDccbbe27c7fdc0fd9@" name="ls_spot" near_range="25" spot_angle_end="75" spot_angle_start="75"/>
+				</lights>
+				<projection_textures ls_spot="lights/art_lights/2x1office_light_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1350 -400 300" _prev_rot="1 0 0 -4.37114e-008" continent="lighting" local_pos="-900 0 0" local_rot="0 0 0 1" name="units/lights/light_spot_shadow_projection_01/light_spot_shadow_projection_01" name_id="light_spot_shadow_projection_01_007" only_visible_in_editor="true" position="-1350 -400 300" projection_light="ls_spot" rotation="1 0 0 -4.37114e-008" unit_id="500003">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="true" falloff_exponent="1" far_range="400" multiplier="@IDccbbe27c7fdc0fd9@" name="ls_spot" near_range="25" spot_angle_end="75" spot_angle_start="75"/>
+				</lights>
+				<projection_textures ls_spot="lights/art_lights/2x1office_light_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-600 250 400" _prev_rot="0.707107 0.707107 -3.09086e-008 3.09086e-008" continent="lighting" local_pos="0 0 0" local_rot="0 0 0 1" name="units/lights/light_spot_shadow_projection_01/light_spot_shadow_projection_01" name_id="light_spot_shadow_projection_01_008" only_visible_in_editor="true" position="-600 250 400" projection_light="ls_spot" rotation="0.707107 0.707107 3.09086e-008 3.09086e-008" unit_id="500004">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="true" falloff_exponent="1" far_range="500" multiplier="@IDccbbe27c7fdc0fd9@" name="ls_spot" near_range="25" spot_angle_end="75" spot_angle_start="75"/>
+				</lights>
+				<projection_textures ls_spot="lights/art_lights/2x1office_light_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1200 250 400" _prev_rot="0.707107 0.707107 -9.27274e-008 -3.09088e-008" continent="lighting" local_pos="0 0 0" local_rot="0 0 0 1" name="units/lights/light_spot_shadow_projection_01/light_spot_shadow_projection_01" name_id="light_spot_shadow_projection_01_009" only_visible_in_editor="true" position="-1200 250 400" projection_light="ls_spot" rotation="0.707107 0.707107 -3.09086e-008 -3.09086e-008" unit_id="500005">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="true" falloff_exponent="1" far_range="500" multiplier="@IDccbbe27c7fdc0fd9@" name="ls_spot" near_range="25" spot_angle_end="75" spot_angle_start="75"/>
+				</lights>
+				<projection_textures ls_spot="lights/art_lights/2x1office_light_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1800 250 400" _prev_rot="0.707107 0.707107 -3.09086e-008 3.09086e-008" continent="lighting" local_pos="0 0 0" local_rot="0 0 0 1" name="units/lights/light_spot_shadow_projection_01/light_spot_shadow_projection_01" name_id="light_spot_shadow_projection_01_010" only_visible_in_editor="true" position="-1800 250 400" projection_light="ls_spot" rotation="0.707107 0.707107 -3.09086e-008 -3.09086e-008" unit_id="500006">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="true" falloff_exponent="1" far_range="500" multiplier="@IDccbbe27c7fdc0fd9@" name="ls_spot" near_range="25" spot_angle_end="75" spot_angle_start="75"/>
+				</lights>
+				<projection_textures ls_spot="lights/art_lights/2x1office_light_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-600 250 400" _prev_rot="0.707107 0.707107 -3.09086e-008 3.09086e-008" continent="lighting" local_pos="0 0 0" local_rot="0 0 0 1" name="units/lights/light_spot_shadow_projection_01/light_spot_shadow_projection_01" name_id="light_spot_shadow_projection_01_011" only_visible_in_editor="true" position="-600 550 400" projection_light="ls_spot" rotation="0.707107 0.707107 -3.09086e-008 -3.09086e-008" unit_id="500007">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="true" falloff_exponent="1" far_range="500" multiplier="@IDccbbe27c7fdc0fd9@" name="ls_spot" near_range="25" spot_angle_end="75" spot_angle_start="75"/>
+				</lights>
+				<projection_textures ls_spot="lights/art_lights/2x1office_light_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1200 250 400" _prev_rot="0.707107 0.707107 -9.27274e-008 -3.09088e-008" continent="lighting" local_pos="0 0 0" local_rot="0 0 0 1" name="units/lights/light_spot_shadow_projection_01/light_spot_shadow_projection_01" name_id="light_spot_shadow_projection_01_012" only_visible_in_editor="true" position="-1200 550 400" projection_light="ls_spot" rotation="0.707107 0.707107 -3.09086e-008 -3.09086e-008" unit_id="500008">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="true" falloff_exponent="1" far_range="500" multiplier="@IDccbbe27c7fdc0fd9@" name="ls_spot" near_range="25" spot_angle_end="75" spot_angle_start="75"/>
+				</lights>
+				<projection_textures ls_spot="lights/art_lights/2x1office_light_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1800 250 400" _prev_rot="0.707107 0.707107 -3.09086e-008 3.09086e-008" continent="lighting" local_pos="0 0 0" local_rot="0 0 0 1" name="units/lights/light_spot_shadow_projection_01/light_spot_shadow_projection_01" name_id="light_spot_shadow_projection_01_013" only_visible_in_editor="true" position="-1800 550 400" projection_light="ls_spot" rotation="0.707107 0.707107 3.09086e-008 3.09086e-008" unit_id="500009">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="true" falloff_exponent="1" far_range="500" multiplier="@IDccbbe27c7fdc0fd9@" name="ls_spot" near_range="25" spot_angle_end="75" spot_angle_start="75"/>
+				</lights>
+				<projection_textures ls_spot="lights/art_lights/2x1office_light_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-450 -400 300" _prev_rot="1 0 0 -4.37114e-008" continent="lighting" local_pos="0 0 0" local_rot="0 0 0 1" name="units/lights/light_spot_shadow_projection_01/light_spot_shadow_projection_01" name_id="light_spot_shadow_projection_01_014" only_visible_in_editor="true" position="-450 1100 300" projection_light="ls_spot" rotation="1 0 0 -4.37114e-008" unit_id="500010">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="true" falloff_exponent="1" far_range="400" multiplier="@IDccbbe27c7fdc0fd9@" name="ls_spot" near_range="25" spot_angle_end="75" spot_angle_start="75"/>
+				</lights>
+				<projection_textures ls_spot="lights/art_lights/2x1office_light_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-750 -400 300" _prev_rot="1 0 0 -1.31134e-007" continent="lighting" local_pos="0 0 0" local_rot="0 0 0 1" name="units/lights/light_spot_shadow_projection_01/light_spot_shadow_projection_01" name_id="light_spot_shadow_projection_01_015" only_visible_in_editor="true" position="-750 1100 300" projection_light="ls_spot" rotation="1 0 0 -1.31134e-007" unit_id="500011">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="true" falloff_exponent="1" far_range="400" multiplier="@IDccbbe27c7fdc0fd9@" name="ls_spot" near_range="25" spot_angle_end="75" spot_angle_start="75"/>
+				</lights>
+				<projection_textures ls_spot="lights/art_lights/2x1office_light_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1050 -400 300" _prev_rot="1 0 0 -4.37114e-008" continent="lighting" local_pos="0 0 0" local_rot="0 0 0 1" name="units/lights/light_spot_shadow_projection_01/light_spot_shadow_projection_01" name_id="light_spot_shadow_projection_01_016" only_visible_in_editor="true" position="-1050 1100 300" projection_light="ls_spot" rotation="1 0 0 -4.37114e-008" unit_id="500012">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="true" falloff_exponent="1" far_range="400" multiplier="@IDccbbe27c7fdc0fd9@" name="ls_spot" near_range="25" spot_angle_end="75" spot_angle_start="75"/>
+				</lights>
+				<projection_textures ls_spot="lights/art_lights/2x1office_light_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1350 -400 300" _prev_rot="1 0 0 -4.37114e-008" continent="lighting" local_pos="0 0 0" local_rot="0 0 0 1" name="units/lights/light_spot_shadow_projection_01/light_spot_shadow_projection_01" name_id="light_spot_shadow_projection_01_017" only_visible_in_editor="true" position="-1350 1100 300" projection_light="ls_spot" rotation="1 0 0 -4.37114e-008" unit_id="500013">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="true" falloff_exponent="1" far_range="400" multiplier="@IDccbbe27c7fdc0fd9@" name="ls_spot" near_range="25" spot_angle_end="75" spot_angle_start="75"/>
+				</lights>
+				<projection_textures ls_spot="lights/art_lights/2x1office_light_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-975 -200 800" _prev_rot="-0 0 -0 -1" continent="lighting" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_20x20" name_id="shadow_caster_20x20_001" position="-975 -200 800" rotation="-0 0 -0 -1" unit_id="500015"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-975 1000 800" _prev_rot="-0 0 -0 -1" continent="lighting" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_20x20" name_id="shadow_caster_20x20_002" position="-975 1000 800" rotation="-0 0 -0 -1" unit_id="500014"/>
+		</table>
+		<table>
+			<unit_data continent="lighting" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_20x20" name_id="shadow_caster_20x20_003" position="-1000 3000 800" rotation="-0 0 -0 -1" unit_id="500016"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-975 1000 800" _prev_rot="0 0 0 -1" continent="lighting" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_20x20" name_id="shadow_caster_20x20_004" position="-1425 1000 800" rotation="0 0 0 -1" unit_id="500017"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-975 -200 800" _prev_rot="0 0 0 -1" continent="lighting" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_20x20" name_id="shadow_caster_20x20_005" position="-1425 -200 800" rotation="0 0 0 -1" unit_id="500018"/>
+		</table>
+	</statics>
+	<values>
+		<workviews/>
+	</values>
+</table>
